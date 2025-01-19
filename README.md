@@ -56,7 +56,7 @@ The RAG system includes the following components:
 ### **Step 1: Clone the Repository**
 ```bash
 git clone https://github.com/mdabdulrazzaq/RAG-System-for-Robotics/.git
-cd rag-project
+cd RAG-System-for-Robotics
 ```
 
 ### **Step 2: Start the Environment**

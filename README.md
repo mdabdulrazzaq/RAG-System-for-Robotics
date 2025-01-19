@@ -1,6 +1,4 @@
-Here’s a comprehensive and **intuitive README** template for your **Finetuned RAG Systems Engineering** project. This README is structured to be user-friendly, informative, and visually engaging.
 
----
 
 # **Finetuned RAG Systems Engineering Project** 🚀
 

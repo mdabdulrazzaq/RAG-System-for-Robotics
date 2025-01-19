@@ -131,6 +131,3 @@ You should see services for:
 - [Qdrant Vector Database](https://qdrant.tech/)
 
 
----
-
-Feel free to customize this template with additional visuals, links, or specific details about your implementation! Let me know if you’d like help creating diagrams or clarifying technical details. 🚀

@@ -42,8 +42,6 @@ The RAG system includes the following components:
 - **LLM Backend (Hugging Face):** Fine-tuned for domain-specific tasks.
 - **Frontend (Gradio):** User-friendly interface for interaction.
 
-### **Architecture Diagram**
-*(Include a diagram showing the flow between components like ETL, Featurization, Fine-tuning, and App Deployment.)*
 
 ---
 

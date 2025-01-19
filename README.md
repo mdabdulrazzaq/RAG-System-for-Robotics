@@ -11,7 +11,7 @@ Here’s a comprehensive and **intuitive README** template for your **Finetuned 
 4. [Setup Instructions](#setup-instructions)
 5. [Project Milestones](#project-milestones)
 6. [How to Use the App](#how-to-use-the-app)
-7. [Demo Screenshots](#demo-screenshots)
+7. [Report](#report)
 8. [Resources](#resources)
 9. [Contributors](#contributors)
 

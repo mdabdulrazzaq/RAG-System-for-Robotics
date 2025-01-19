@@ -58,9 +58,10 @@ def scrape_and_store_task(links: list[str]):
 
             # GitHub API URLs
             contents_api_url = f"https://api.github.com/repos/{owner}/{repo}/contents"
+            pat="add your pat"
             headers = {
                 "Accept": "application/vnd.github.v3+json",
-                "Authorization": f"token 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"
+                "Authorization": f"token {pat}"
             }
 
             # Fetch Repository Files Recursively

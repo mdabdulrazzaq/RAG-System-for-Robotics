@@ -5,7 +5,7 @@ import os
 # Configuration
 HUGGINGFACE_MODEL_NAME = "google/flan-t5-base"
 HUGGINGFACE_REPO_NAME = "abdulrazzaq3103/flan-t5-lora-finetuned"
-HUGGINGFACE_TOKEN = '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'
+HUGGINGFACE_TOKEN = 'add your token'
 
 
 # Initialize and Upload Model
